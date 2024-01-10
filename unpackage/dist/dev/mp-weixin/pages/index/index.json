@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "pi-button": "/node-modules/sadais-piui/components/pi-button/index"
+  }
+}

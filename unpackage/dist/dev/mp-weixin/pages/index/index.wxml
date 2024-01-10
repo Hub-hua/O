@@ -1,0 +1,1 @@
+<view class="content"><pi-button vue-id="8dd740cc-1" type="primary" bind:__l="__l" vue-slots="{{['default']}}">主要按钮</pi-button></view>
